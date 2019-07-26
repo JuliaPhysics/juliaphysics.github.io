@@ -6,10 +6,10 @@
 
 - [`JuliaPhysics`](https://github.com/JuliaPhysics/):
   - [`Measurements.jl`](https://github.com/JuliaPhysics/Measurements.jl): Error
-	propagation library
+    propagation library
   - [`PhysicalConstants`](https://github.com/JuliaPhysics/PhysicalConstants.jl):
-	Collection of fundamental physical constants, with physical units and
-	uncertainties
+    Collection of fundamental physical constants, with physical units and
+    uncertainties
 - [`Unitful.jl`](https://github.com/PainterQubits/Unitful.jl): Physical
   quantities with arbitrary units
 - [`NaturallyUnitful.jl`](https://github.com/MasonProtter/NaturallyUnitful.jl):
@@ -53,8 +53,13 @@
 ## Quantum mechanics
 
 - JuliaQuantum (few recent updates as of 2019)
-  - Yao.jl
-  - QuantumOptics.jl
+  - [`QuDynamics.jl`](https://github.com/JuliaQuantum/QuDynamics.jl): A
+    JuliaQuantum package for solving dynamical equations in quantum mechanics.
+  - [`QuCmp.jl`](https://github.com/JuliaQuantum/QuCmp.jl): A JuliaQuantum
+    package for simulations of quantum computers.
+- [`Yao.jl`](https://github.com/QuantumBFS/Yao.jl): Extensible, Efficient
+  Quantum Algorithm Design for Humans.
+- [`QuantumOptics.jl`](https://github.com/qojulia/QuantumOptics.jl)
 
 ## Finite element analysis
 
