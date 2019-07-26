@@ -15,7 +15,8 @@
     - Overview of DiffEqPhysics and FDM with DiffEq
 
   - how to use ModellingToolkit by @ChrisRackauckas and @HarrisonGrodin if possible...with special reference to constructing systems of diffeq programatically
-## Dynamical systems analysis
+
+## Dynamical systems 
 - JuliaDynamics
     - DynamicalSystems.jl
     - ChaosTools.jl
@@ -26,20 +27,35 @@
 ## Astronomy
 - JuliaAstro
 
-## Quantum:
-    - Yao.jl et al
+## Quantum mechanics
+- JuliaQuantum (few recent updates as of 2019)
+    - Yao.jl
     - QuantumOptics.jl
+
 ## Finite element analysis
 - JuAFEM.jl
 - JuliaFEM.jl
 - FENiCS.jl
 
-## Atoms
-- [JuliaAtoms](https://github.com/JuliaAtoms/) (@jagot, @mortenpi)
+## Solid state
+- [JuliaAtoms](https://github.com/JuliaAtoms/) Atomic physics (@jagot, @mortenpi)
+    
+- [libAtoms](https://github.com/libAtoms/) Materials-modelling + FEM orientated
+  libraries
+    - [JuLIPMaterials](https://github.com/cortner/JuLIPMaterials.jl) collection
+      of Julia tools for materials science
+    - [JuLIP](https://github.com/libAtoms/JuLIP.jl) library for Interatomic
+      Potentials
+
+- [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl) Semi-classical recombination in semiconductors.
+- [PolaronMobility.jl](https://github.com/jarvist/PolaronMobility.jl) - Feynman variational
+  path-integral model for the Fröhlich polaron
 
 ## Tensors
 - [ITensors.jl](https://github.com/ITensor/ITensors.jl) (@emstoudenmire, @mtfishman, @kshyatt)
 - TensorOperations.jl
+- Einsum.jl
+- That new Einsum library for more automatic differentiation?
 
 ## Plotting
 Visualization is one of the most important tools in our toolkit.
