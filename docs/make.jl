@@ -10,3 +10,7 @@ makedocs(
         ]
     ]
 )
+
+deploydocs(
+    repo = "github.com/JuliaPhysics/juliaphysics.github.io.git",
+)
