@@ -2,18 +2,29 @@
 
 - JuliaPhysics (a physics organization)
 
-## Dealing with units
+## Dealing with physical quantities
 
-- Unitful.jl
-- Measurements.jl
-- NaturallyUnitful.jl
+- [`JuliaPhysics`](https://github.com/JuliaPhysics/):
+  - [`Measurements.jl`](https://github.com/JuliaPhysics/Measurements.jl): Error
+	propagation library
+  - [`PhysicalConstants`](https://github.com/JuliaPhysics/PhysicalConstants.jl):
+	Collection of fundamental physical constants, with physical units and
+	uncertainties
+- [`Unitful.jl`](https://github.com/PainterQubits/Unitful.jl): Physical
+  quantities with arbitrary units
+- [`NaturallyUnitful.jl`](https://github.com/MasonProtter/NaturallyUnitful.jl):
+  Facilities for using natural units with `Unitful.jl`
 
 ## Differential equations
 
-- DifferentialEquations.jl
-- DiffEqPhysics.jl
-- DiffEqOperators.jl
-- ModelingToolkit.jl
+- [`DifferentialEquations.jl`](https://github.com/JuliaDiffEq/DifferentialEquations.jl):
+  Julia suite for high-performance solvers of differential equations
+- [`DiffEqPhysics.jl`](https://github.com/JuliaDiffEq/DiffEqPhysics.jl): A
+  library for building differential equations arising from physical problems
+- [`DiffEqOperators.jl`](https://github.com/JuliaDiffEq/DiffEqOperators.jl/):
+  Linear operators for discretizations of differential equations
+- [`ModelingToolkit.jl`](https://github.com/JuliaDiffEq/ModelingToolkit.jl): A
+  toolkit for modeling and creating DSLs for Scientific Computing in Julia
 
 ## TODOS here
 
@@ -24,16 +35,23 @@
 
 ## Dynamical systems analysis
 
-- JuliaDynamics
-  - DynamicalSystems.jl
-  - ChaosTools.jl
-  - DelayEmbeddings.jl
-- PyDSTool.jl
+- [JuliaDynamics](https://github.com/JuliaDynamics)
+  - [`DynamicalSystems.jl`](https://github.com/JuliaDynamics/DynamicalSystems.jl):
+    A Julia software library for chaos and nonlinear dynamics
+  - [`ChaosTools.jl`](https://github.com/JuliaDynamics/ChaosTools.jl): Tools for
+    the exploration of chaos and nonlinear dynamics
+  - [`DelayEmbeddings.jl`](https://github.com/JuliaDynamics/DelayEmbeddings.jl):
+    Delay coordinates embedding, Datasets and neighborhoods
+- [`PyDSTool.jl`](https://github.com/JuliaDiffEq/PyDSTool.jl): A wrapper for the
+  PyDSTool library
+
 
 ## Astronomy
-- JuliaAstro
+
+- [JuliaAstro](https://github.com/JuliaAstro)
 
 ## Quantum mechanics
+
 - JuliaQuantum (few recent updates as of 2019)
   - Yao.jl
   - QuantumOptics.jl
