@@ -1,6 +1,7 @@
 using Documenter
 
 makedocs(
+    sitename = "JuliaDocs",
     pages = [
         "JuliaPhysics" => [
             "index.md"
@@ -13,4 +14,6 @@ makedocs(
 
 deploydocs(
     repo = "github.com/JuliaPhysics/juliaphysics.github.io.git",
+    branch = "source",
+    devbranch = "master",
 )
