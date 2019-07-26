@@ -14,6 +14,6 @@ makedocs(
 
 deploydocs(
     repo = "github.com/JuliaPhysics/juliaphysics.github.io.git",
-    branch = "source",
-    devbranch = "master",
+    branch = "master",
+    devbranch = "source",
 )
