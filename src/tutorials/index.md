@@ -4,5 +4,5 @@ The tutorials are collected in the [PhysicsTutorials](https://github.com/JuliaPh
 
 ### General
 
-* [Speeding up Quantum Mechanics: Matrix Types](https://github.com/JuliaPhysics/PhysicsTutorials/tree/master/general/matrix_types)
+* [Speeding up Quantum Mechanics: Matrix Types](https://juliaphysics.github.io/PhysicsTutorials.jl/tutorials/general/matrix_types.html)
 
