@@ -117,6 +117,7 @@
   potentials used to reduces calculation complexity by representing a core of
   electrons in a mean-field sense.  This can turn a multi-electron problem into
   an approximate few- or single-electron problem.
+- [`MonteCarlo.jl`](https://github.com/crstnbr/MonteCarlo.jl): Classical and quantum Monte Carlo simulations in Julia
 
 ## Tensors
 
