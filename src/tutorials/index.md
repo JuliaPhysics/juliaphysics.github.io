@@ -1,6 +1,6 @@
 # Tutorials
 
-The tutorials are collected in the [PhysicsTutorials](https://github.com/JuliaPhysics/PhysicsTutorials) repository.
+The tutorials are collected in the [PhysicsTutorials](https://github.com/JuliaPhysics/PhysicsTutorials) repository. We happily accept pull requests that add new tutorials or improve the existing ones!
 
 ### General
 
