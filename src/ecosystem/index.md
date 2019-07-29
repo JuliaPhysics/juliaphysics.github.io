@@ -5,13 +5,16 @@
 - [`JuliaPhysics`](https://github.com/JuliaPhysics/):
   - [`Measurements.jl`](https://github.com/JuliaPhysics/Measurements.jl): Error
     propagation library
-  - [`PhysicalConstants`](https://github.com/JuliaPhysics/PhysicalConstants.jl):
+  - [`PhysicalConstants.jl`](https://github.com/JuliaPhysics/PhysicalConstants.jl):
     Collection of fundamental physical constants, with physical units and
     uncertainties
+- [`PeriodicTable.jl`](https://github.com/rahulkp220/PeriodicTable.jl): Periodic Table for Julians
 - [`Unitful.jl`](https://github.com/PainterQubits/Unitful.jl): Physical
   quantities with arbitrary units
 - [`NaturallyUnitful.jl`](https://github.com/MasonProtter/NaturallyUnitful.jl):
   Facilities for using natural units with `Unitful.jl`
+- [`UnitfulAstro.jl`](https://github.com/JuliaAstro/UnitfulAstro.jl): An extension of Unitful.jl for astronomers.
+- [`BinningAnalysis.jl`](https://github.com/crstnbr/BinningAnalysis.jl): Standard error estimation tools for correlated data
 
 ## Differential equations
 
@@ -57,7 +60,7 @@
     package for simulations of quantum computers.
 - [`Yao.jl`](https://github.com/QuantumBFS/Yao.jl): Extensible, Efficient
   Quantum Algorithm Design for Humans.
-- [`QuantumOptics.jl`](https://github.com/qojulia/QuantumOptics.jl)
+- [`QuantumOptics.jl`](https://qojulia.org/): Library for the numerical simulation of closed as well as open quantum systems.
 
 ## Finite element analysis
 
