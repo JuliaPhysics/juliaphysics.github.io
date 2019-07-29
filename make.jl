@@ -1,13 +1,15 @@
 using Documenter
 
 makedocs(
-    sitename = "JuliaDocs",
+    sitename = "JuliaPhysics",
     pages = [
-        "JuliaPhysics" => [
-            "index.md"
+        "Introduction" => "index.md",
+        "Julia for Physics" => [
+            "tutorials/index.md"
         ],
-        "Julia Physics ecosystem" => [
-            "ecosystem/index.md",
+        "Physics Ecosystem" => "ecosystem/index.md",
+        "Community" => [
+            "community/organizations.md"
         ]
     ]
 )

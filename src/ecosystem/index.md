@@ -1,6 +1,4 @@
-# Julia's Physics ecosystem
-
-- JuliaPhysics (a physics organization)
+# Julia's Physics Ecosystem
 
 ## Dealing with physical quantities
 
