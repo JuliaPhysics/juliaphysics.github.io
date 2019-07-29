@@ -8,7 +8,7 @@
   - [`PhysicalConstants.jl`](https://github.com/JuliaPhysics/PhysicalConstants.jl):
     Collection of fundamental physical constants, with physical units and
     uncertainties
-- [`PeriodicTable.jl`](https://github.com/rahulkp220/PeriodicTable.jl): Periodic Table for Julians
+  - [`PeriodicTable.jl`](https://github.com/JuliaPhysics/PeriodicTable.jl): Periodic Table for Julians
 - [`Unitful.jl`](https://github.com/PainterQubits/Unitful.jl): Physical
   quantities with arbitrary units
 - [`NaturallyUnitful.jl`](https://github.com/MasonProtter/NaturallyUnitful.jl):
