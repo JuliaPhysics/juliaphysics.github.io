@@ -34,18 +34,18 @@
 
 - how to use ModellingToolkit by @ChrisRackauckas and @HarrisonGrodin if possible...with special reference to constructing systems of diffeq programatically
 
-## Dynamical systems analysis
+## Dynamical systems
 
 - [JuliaDynamics](https://github.com/JuliaDynamics)
   - [`DynamicalSystems.jl`](https://github.com/JuliaDynamics/DynamicalSystems.jl):
-    A Julia software library for chaos and nonlinear dynamics
-  - [`ChaosTools.jl`](https://github.com/JuliaDynamics/ChaosTools.jl): Tools for
-    the exploration of chaos and nonlinear dynamics
-  - [`DelayEmbeddings.jl`](https://github.com/JuliaDynamics/DelayEmbeddings.jl):
-    Delay coordinates embedding, Datasets and neighborhoods
+    A Julia software library for nonlinear dynamics: Delay embeddings, recurrence analysis, chaos (e.g. Lyapunov exponents) and interactive applications.
+  - [`DynamicalBilliards.jl`](https://github.com/JuliaDynamics/DynamicalBilliards.jl): Feature-full library for billiards in two dimensions, with support for plotting/animating
+
 - [`PyDSTool.jl`](https://github.com/JuliaDiffEq/PyDSTool.jl): A wrapper for the
   PyDSTool library
-
+- [`CausalityTools.jl`](https://github.com/kahaaga/CausalityTools.jl/) : a framework for detecting causal relations between timeseries.
+- [`Reachability.jl`](https://github.com/JuliaReach/Reachability.jl) : approximating the reachable states and checking safety properties of affine systems.
+- [`Agents.jl`](https://github.com/kavir1698/Agents.jl) : Agent-based modelling, cellular automata.
 
 ## Astronomy
 
