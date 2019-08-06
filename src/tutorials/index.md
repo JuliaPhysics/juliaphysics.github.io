@@ -6,9 +6,6 @@ The tutorials are collected in the [PhysicsTutorials](https://github.com/JuliaPh
 
 * [Speeding up Quantum Mechanics: Matrix Types](https://juliaphysics.github.io/PhysicsTutorials.jl/tutorials/general/matrix_types/matrix_types.html)
 
-* [How to easily code a billiard taking advantage of Julia's multiple dispatch](https://nbviewer.jupyter.org/github/JuliaDynamics/JuliaDynamics/blob/master/tutorials/Billiards%20Example/billiards_example.ipynb)
-
-
 ### Machine Learning
 
 * [Machine Learning the Ising Transition](https://juliaphysics.github.io/PhysicsTutorials.jl/tutorials/machine_learning/ml_ising/ml_ising.html)
