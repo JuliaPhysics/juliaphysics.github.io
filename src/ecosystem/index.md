@@ -118,6 +118,7 @@
   electrons in a mean-field sense.  This can turn a multi-electron problem into
   an approximate few- or single-electron problem.
 - [`MonteCarlo.jl`](https://github.com/crstnbr/MonteCarlo.jl): Classical and quantum Monte Carlo simulations in Julia
+- [`WignerSymbols.jl`](https://github.com/Jutho/WignerSymbols.jl): Compute Wigner's 3j and 6j symbols, and related quantities such as Clebsch-Gordan coefficients and Racah's symbols.
 
 ## Tensors
 
