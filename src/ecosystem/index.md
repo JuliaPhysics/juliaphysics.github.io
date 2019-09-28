@@ -27,7 +27,7 @@
 - [`ModelingToolkit.jl`](https://github.com/JuliaDiffEq/ModelingToolkit.jl): A
   toolkit for modeling and creating DSLs for Scientific Computing in Julia
 
-## TODOS here
+### TODOS here
 
 - Short tutorial with common physics problems
 - Overview of DiffEqPhysics and FDM with DiffEq
@@ -51,11 +51,19 @@
 
 - [JuliaAstro](https://github.com/JuliaAstro)
 
-## Quantum mechanics and computing
+## Quantum Physics
 
 - [`Yao.jl`](https://github.com/QuantumBFS/Yao.jl): Extensible, Efficient
   Quantum Algorithm Design for Humans.
+- [`QuantumInformation.jl`](https://github.com/iitis/QuantumInformation.jl) A Julia package for numerical computation in quantum information theory
+- [`QuantumInfo.jl`](https://github.com/BBN-Q/QuantumInfo.jl)
+- [`QuantumLab.jl`](https://github.com/vonDonnerstein/QuantumLab.jl) A workbench for Quantum Chemistry and Quantum Physics in Julia
 - [`QuantumOptics.jl`](https://qojulia.org/): Library for the numerical simulation of closed as well as open quantum systems.
+- [`QuantumBayesian.jl`](https://github.com/justindressel/QuantumBayesian.jl) Julia package for simulating quantum evolution efficiently, including the quantum Bayesian approach to stochastic measurement update and continuous readout. 
+- [`MonteCarlo.jl`](https://github.com/crstnbr/MonteCarlo.jl) Classical and quantum Monte Carlo simulations in Julia
+- [`RandomQuantum.jl`](https://github.com/BBN-Q/RandomQuantum.jl) sample from various random matrix ensebles associated with quantum information applications.
+- [QuantumWalk.jl](https://github.com/iitis/QuantumWalk.jl) QuantumWalk.jl is a package for Julia programming language implementing models of quantum continuous and discrete walks used for performing quantum spatial search.
+
 
 ## Finite element analysis
 
