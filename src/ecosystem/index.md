@@ -53,11 +53,6 @@
 
 ## Quantum mechanics and computing
 
-- [`JuliaQuantum`](https://github.com/JuliaQuantum):
-  - [`QuDynamics.jl`](https://github.com/JuliaQuantum/QuDynamics.jl): A
-    JuliaQuantum package for solving dynamical equations in quantum mechanics.
-  - [`QuCmp.jl`](https://github.com/JuliaQuantum/QuCmp.jl): A JuliaQuantum
-    package for simulations of quantum computers.
 - [`Yao.jl`](https://github.com/QuantumBFS/Yao.jl): Extensible, Efficient
   Quantum Algorithm Design for Humans.
 - [`QuantumOptics.jl`](https://qojulia.org/): Library for the numerical simulation of closed as well as open quantum systems.
