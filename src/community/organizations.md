@@ -8,16 +8,7 @@ Among the cornerstones of our community are **Julia GitHub Groups**, also known 
 
 * [JuliaPhysics](https://github.com/JuliaPhysics) - General physics organization
 * [JuliaAstro](http://juliaastro.github.io/) - Community Astronomy and Astrophysics packages for Julia
-* [QuantumBFS]() - A group of quantum developers around Bao Fu Si (mainly quantum circuits)
+* [QuantumBFS](https://github.com/QuantumBFS) - A group of quantum developers around Bao Fu Si (mainly quantum circuits)
 * [JuliaDynamics](https://github.com/JuliaDynamics) - A Julia organization for dynamical systems
 * [JuliaGeo](https://github.com/JuliaGeo) - Geoscience organization
-* [JuliaDiffEq](https://github.com/JuliaDiffEq) - An organization for differential equations in Julia
-
-
-
-
-
-
-
-
-
+* [SciML](https://github.com/SciML) - An organization for differential equations and scientific machine learning in Julia
