@@ -12,12 +12,3 @@ Among the cornerstones of our community are **Julia GitHub Groups**, also known 
 * [JuliaDynamics](https://github.com/JuliaDynamics) - A Julia organization for dynamical systems
 * [JuliaGeo](https://github.com/JuliaGeo) - Geoscience organization
 * [JuliaDiffEq](https://github.com/JuliaDiffEq) - An organization for differential equations in Julia
-
-
-
-
-
-
-
-
-
