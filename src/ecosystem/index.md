@@ -131,7 +131,7 @@
   package for tensor contractions and related operations
 - [`Einsum.jl`](https://github.com/ahwillia/Einsum.jl): Einstein summation
   notation in Julia
-- That new Einsum library for more automatic differentiation?
+- [`Tullio.jl`](https://github.com/mcabbott/Tullio.jl): Fast, AutoDiff, GPU friendly Einsum with support for convolutions, stencils, scatter/gather, and broadcasting.
 
 ## Radiation detectors
 
