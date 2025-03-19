@@ -1,4 +1,4 @@
-# Julia's Physics Ecosystem
+# [Julia's Physics Ecosystem](@id ecosystem)
 
 ## Dealing with physical quantities
 
@@ -59,7 +59,7 @@
 - [`QuantumInfo.jl`](https://github.com/BBN-Q/QuantumInfo.jl)
 - [`QuantumLab.jl`](https://github.com/vonDonnerstein/QuantumLab.jl) A workbench for Quantum Chemistry and Quantum Physics in Julia
 - [`QuantumOptics.jl`](https://qojulia.org/): Library for the numerical simulation of closed as well as open quantum systems.
-- [`QuantumBayesian.jl`](https://github.com/justindressel/QuantumBayesian.jl) Julia package for simulating quantum evolution efficiently, including the quantum Bayesian approach to stochastic measurement update and continuous readout. 
+- [`QuantumBayesian.jl`](https://github.com/justindressel/QuantumBayesian.jl) Julia package for simulating quantum evolution efficiently, including the quantum Bayesian approach to stochastic measurement update and continuous readout.
 - [`MonteCarlo.jl`](https://github.com/crstnbr/MonteCarlo.jl) Classical and quantum Monte Carlo simulations in Julia
 - [`RandomQuantum.jl`](https://github.com/BBN-Q/RandomQuantum.jl) sample from various random matrix ensebles associated with quantum information applications.
 - [QuantumWalk.jl](https://github.com/iitis/QuantumWalk.jl) QuantumWalk.jl is a package for Julia programming language implementing models of quantum continuous and discrete walks used for performing quantum spatial search.
