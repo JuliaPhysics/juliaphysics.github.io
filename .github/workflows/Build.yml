@@ -1,9 +1,13 @@
 name: Build JuliaPhysics Website
+
 on:
   push:
     branches: [source]
     tags: '*'
   pull_request:
+  schedule:
+    - cron: '@weekly'
+
 jobs:
   build:
     # These permissions are needed to:
