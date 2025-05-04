@@ -18,4 +18,5 @@ deploydocs(
     repo = "github.com/JuliaPhysics/juliaphysics.github.io.git",
     branch = "master",
     devbranch = "source",
+    push_preview = true,
 )
