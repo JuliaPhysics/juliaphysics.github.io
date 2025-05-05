@@ -1,8 +1,2 @@
 name = "JuliaPhysicsDocs"
 uuid = "8fc56513-70bf-4d89-b89a-1909bf80f8b0"
-
-[deps]
-Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-
-[compat]
-Documenter = "1"
