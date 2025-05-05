@@ -24,6 +24,10 @@ jobs:
           version: '1'
           show-versioninfo: true
       - uses: julia-actions/cache@v2
-      - uses: julia-actions/julia-docdeploy@v1
+      - name: Instantiate julia environment
+        shell: julia --color=yes --project {0}
+        run: import Pkg; Pkg.instantiate()
+      - name: Build and deploy documentation
+        run: julia --color=yes --project make.jl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
