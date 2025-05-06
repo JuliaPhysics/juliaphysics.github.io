@@ -2,6 +2,9 @@ using Documenter
 
 makedocs(
     sitename = "JuliaPhysics",
+    format = Documenter.HTML(
+        assets = ["assets/favicon.ico"],
+    ),
     pages = [
         "Introduction" => "index.md",
         "Julia for Physics" => [
